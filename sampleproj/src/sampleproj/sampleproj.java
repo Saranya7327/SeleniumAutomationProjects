@@ -6,6 +6,7 @@ public class sampleproj {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello world");
+		System.out.println("second");
 
 	}
 
