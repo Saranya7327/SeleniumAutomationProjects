@@ -7,7 +7,7 @@ public class sampleproj {
 		
 		System.out.println("Hello world");
 	
-		System.out.println("pushed");
+		System.out.println("pushed for action");
 		
 
 	}
