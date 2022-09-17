@@ -30,7 +30,7 @@ jobs:
         java-version: 1.8
 
     - name: Build project with Maven
-      run: mvn -B package --file maveneg1/pom.xml
+      run: mvn -B package --file Maveneg1/pom.xml
       
     - name: List current directory
       run: ls -a 
