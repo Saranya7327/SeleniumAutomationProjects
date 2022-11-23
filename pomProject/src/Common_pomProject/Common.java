@@ -47,7 +47,7 @@ public class Common {
 	}
 	
 	@AfterSuite
-	public void teardown()
+	public void close()
 	{
 		driver.quit();
 	}
