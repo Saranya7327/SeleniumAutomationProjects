@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12329" started-at="2023-01-11T11:32:10 IST" finished-at="2023-01-11T11:32:23 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12329" started-at="2023-01-11T11:32:10 IST" finished-at="2023-01-11T11:32:23 IST">
+      <class name="Maincode.Maincode">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:Maincode.Maincode@1786dec2]" name="launchBrowser" is-config="true" duration-ms="8631" started-at="2023-01-11T11:32:02 IST" finished-at="2023-01-11T11:32:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="loginToMytra()[pri:1, instance:Maincode.Maincode@1786dec2]" name="loginToMytra" duration-ms="3682" started-at="2023-01-11T11:32:10 IST" finished-at="2023-01-11T11:32:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToMytra -->
+        <test-method status="PASS" signature="loginToProfile()[pri:2, instance:Maincode.Maincode@1786dec2]" name="loginToProfile" duration-ms="3558" started-at="2023-01-11T11:32:14 IST" finished-at="2023-01-11T11:32:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToProfile -->
+        <test-method status="PASS" signature="validateHomeAndLiving()[pri:3, instance:Maincode.Maincode@1786dec2]" name="validateHomeAndLiving" duration-ms="4106" started-at="2023-01-11T11:32:18 IST" finished-at="2023-01-11T11:32:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeAndLiving -->
+        <test-method status="PASS" signature="validateSortByItems()[pri:4, instance:Maincode.Maincode@1786dec2]" name="validateSortByItems" duration-ms="899" started-at="2023-01-11T11:32:22 IST" finished-at="2023-01-11T11:32:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSortByItems -->
+      </class> <!-- Maincode.Maincode -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

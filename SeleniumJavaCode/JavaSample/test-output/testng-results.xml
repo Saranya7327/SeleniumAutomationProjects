@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="140" started-at="2022-02-03T18:04:57 IST" finished-at="2022-02-03T18:04:57 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="140" started-at="2022-02-03T18:04:57 IST" finished-at="2022-02-03T18:04:57 IST">
+      <class name="sampletestng.firstprog">
+        <test-method status="PASS" signature="zest()[pri:0, instance:sampletestng.firstprog@64729b1e]" name="zest" duration-ms="18" started-at="2022-02-03T18:04:57 IST" finished-at="2022-02-03T18:04:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zest -->
+        <test-method status="PASS" signature="test()[pri:1, instance:sampletestng.firstprog@64729b1e]" name="test" duration-ms="3" started-at="2022-02-03T18:04:57 IST" finished-at="2022-02-03T18:04:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="abc()[pri:2, instance:sampletestng.firstprog@64729b1e]" name="abc" duration-ms="3" started-at="2022-02-03T18:04:57 IST" finished-at="2022-02-03T18:04:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+      </class> <!-- sampletestng.firstprog -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
