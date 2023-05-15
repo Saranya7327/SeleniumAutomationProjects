@@ -6,7 +6,7 @@ class example1 {
 		
 		
 			System.out.println("Add statement updated");
-			System.out.println("22-03-2023 update");
+			System.out.println("15.05.2023 update");
 		
 	}
 
