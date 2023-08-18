@@ -12,6 +12,7 @@ public class App {
 		 System.setProperty("webdriver.chrome.driver", "C:\\Users\\Saranya\\Selenium\\chromedriver.exe");
 		 		WebDriver driver=new ChromeDriver();
 		 		driver.get("https://google.com");
+		 		System.out.println("Aug 18 push");
 	 }
 	 
 	 
